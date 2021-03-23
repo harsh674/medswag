@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754246156119",
+    "firebase_url": "https://swag-health.firebaseio.com",
+    "project_id": "swag-health",
+    "storage_bucket": "swag-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754246156119:android:2ced54b0aeb032447a0812",
+        "android_client_info": {
+          "package_name": "com.society.swag_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754246156119-tibecvb7c8t98aiuvlamk4sq24pe7ga1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.society.swag_health",
+            "certificate_hash": "8d9515c069ade3117f4cc49d66b841995da4872f"
+          }
+        },
+        {
+          "client_id": "754246156119-tc2l38efnegv4khg14th6lrgbh2l08b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8VP_Kasd07SWem7nIEYcA9IRiZeMvc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754246156119-tc2l38efnegv4khg14th6lrgbh2l08b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
